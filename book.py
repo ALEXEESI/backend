@@ -4,6 +4,7 @@ app = Flask(__name__)
 books = [
     {"ID" :1,"title":"Book 1","author":"Author 1"},
     {"ID" :2,"title":"Book 2","author":"Author 2"},
+    {"ID" :3,"title":"Book 3","author":"Author 3"},
     {"ID" :3,"title":"Book 3","author":"Author 3"}
 ]
 
